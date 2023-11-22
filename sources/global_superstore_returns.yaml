@@ -1,0 +1,5 @@
+# Visit https://docs.rilldata.com/reference/project-files/sources to learn more about Rill source files.
+
+type: "duckdb"
+region: "us-east-1"
+sql: "select * from read_csv('s3://personal-data1121/global_superstore_returns.csv', auto_detect=true, ignore_errors=1, header=true)"
