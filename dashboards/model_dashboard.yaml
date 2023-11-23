@@ -10,6 +10,12 @@ measures:
     description: Total number of records present
     format_preset: humanize
     valid_percent_of_total: true
+  - label: Sales
+    expression: sum(Sales)
+    name: sum_sales
+    description: Sum of sales over the time dimension
+    format_preset: humanize
+    valid_percent_of_total: true
 dimensions:
   - name: Order ID
     label: Order ID
