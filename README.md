@@ -28,3 +28,67 @@ The Rill Dashboard was already deployed and is available in the [UI](https://ui.
 The Measures (Numerical variables) are visualized over the range of the DateTime dimension, and these measures can be filtered by the Categorical dimensions.
 
 ## [Tableau Dashboard]()
+
+## Tableau Data Analysis
+
+[Tableau](https://www.tableau.com/why-tableau/what-is-tableau) is a visual analytics platform that is commonly used to transform the way data practitioners use the data to solve data related problems. Is also a market-leading choice for modern business intelligence Teams and one of the  world’s most popular data visualization software packages
+
+## Discovering Tableau Public
+
+[Tableau Public](https://public.tableau.com/app/discover) is a free platform to explore, create, and publicly share data visualizations online.
+
+### Insights and findings
+
+The Dashboard developed in Tableau Public is available in the following [link](https://public.tableau.com/views/GlobalSuperstore_17006630958070/Main?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+From the visualizations I have performed from the data, the following are the findings I have founddd:
+
+1. **Categories and sub categories**. The three categories present in the dataset for Global Superstore, **Technology**, **Furniture** and **Office Supplies**, groups 37.5%, 32.5%, and 30% of the total Sales respectively and they are almost evenly distributed. 
+
+
+
+  ![chart1](img/pie_chart.png)
+
+**Technology** accounts for the highest Total Profits (almost half) at 45.2%. **Office** supplies profits are at 35.3% while **Furniture** is at 19.4% profit. 
+
+  ![chart2](img/area_chart.png)
+
+
+One of the questions that raises when we have analyzed the first 2 charts and the rest of the data is, Why do furniture contribute to such low profits yet has high sales? 
+
+Furniture category is comprises by 4 subcategories (`Furnishes`, `Bookcases`, `Chairs`, and `Tables`) Only `Furnishes` (12.2%) has a profit margin above the average profit margin of sub-categories (11.6%). Bookcases has an 11% profit margin, and chairs 9.3%. 
+
+Tables sub-category is infact making a loss, as it records a negative -8.5% profit margin, and specifically in this sub-category is where Global Superstore is losing money.
+
+
+  ![chart3](img/furniture_category.png)
+
+2. Global superstore has three main **Segments**, **Consumer**, **Corporate** and **Home Office**. The Consumer segment accounts for over 6.5 Million dollars in sales 51.5%. Corporate 30.3% while Home Office 18.3%.
+
+
+  ![chart4](img/sales_per_segment.png)
+
+ 
+Profit margins among the segments is almost equal. Both consumer and corporate have 11.5% profit margins. Home Office segment has a 12.5% profit margin. In all segments, sale demand decreses from technology, furniture and office supply in that order.
+
+
+3. The largest market in Gobal Superstore is APAC. The Asia Pacific market at 2938.1K, The US market 2164.6K, EMEA 783.8K, Canada $66.9K. Canada has the lowest sales but highest percent profit margins among the markets. Global stores has a presence in major markets with profit margins mainly ranging between 10 to 14%. EMEA market has an uncharacteristic low profits and lower profit margin than the rest of the markets.
+
+
+  ![chart5](img/measures_per_market.png)
+
+
+Time series Global stores has experienced growth in sales and profits gradually from 2011 to 2014. If this trend continues, the future is bright for the business.
+
+
+
+  ![chart6](img/yearly_profit_forecast.png)
+
+
+* Limitations
+
+The data lacks population numbers for the different regions. Demographic information would have let us know markets where Global store is most popular and markets where more advertising and marketing needs to take place. Markets with high populations are likely to record high sales by default. This however doesn't represent the actual market share in comparison with key competitors.
+
+* Recommendations
+
+From the analysis, the tables sub-category is making losses. Only 20 out of 170 table types generate a profit margin that is higher than the company's average profit margin. Global stores can continue selling the 20 profitable unique tables. On the other hand, the loss making tables can be gradually removed from the online shelfs for higher profitability.
