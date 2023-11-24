@@ -6,14 +6,7 @@ Global Superstore is a global online retailer based in New York, boasting a broa
 
 According to its official site, [Rill](https://www.rilldata.com/) is the fastest path from data lake to dashboard. With Rill you can build radically simple, thoughtful, opinionated and, interactive dashboards as code. Each step from data to dashboard has versioning, Git sharing, and easy project rehydration.
 
-<p>
-<img loading="lazy" src="https://github-production-user-asset-6210df.s3.amazonaws.com/5587788/240772792-49d17e80-5f27-408c-bbc9-fdbff7b6b627.gif">
-</p>
-
-https://github-production-user-asset-6210df.s3.amazonaws.com/5587788/240772792-49d17e80-5f27-408c-bbc9-fdbff7b6b627.gif
-
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5587788/240772792-49d17e80-5f27-408c-bbc9-fdbff7b6b627.gif" alt="GIF" />
-
+<div style="position: relative; padding-bottom: 53.57894736842105%; height: 0;"><iframe src="https://www.loom.com/embed/85838ed62b46492ea48268ee1f367200?sid=87c37fe6-371e-4f40-ba7a-24b63cd68e9d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Download Rill to start modeling data and create fast, exploratory dashboards.
 
