@@ -12,7 +12,7 @@ Download Rill to start modeling data and create fast, exploratory dashboards. He
 
 The Dashboard consumes data from 3 CSV files made available publicly in an S3 bucket:
 
-  ![s3_data](../img/s3_bucket.png)
+  ![s3_data](img/s3_bucket.png)
 
 The data sources consist of 3 tables, `orders`, `returns` and `people`, being Orders the table where we will perform the majority of our analysis.
 
@@ -23,7 +23,7 @@ This is precisely where Rill shines, it models your numerical variables (`Sales`
 The Rill Dashboard was already deployed and is available in the [UI](https://ui.rilldata.com/fvgm-spec/global_superstore/model_dashboard). As seen in the image below shows how Rill organizes the data based on the definitions set in [YAML files](https://github.com/fvgm-spec/global_superstore/blob/main/dashboards/model_dashboard.yaml)
 
 
-  ![rill_dashboard](../img/rill_dashboard.png)
+  ![rill_dashboard](img/rill_dashboard.png)
 
 The Measures (Numerical variables) are visualized over the range of the DateTime dimension, and these measures can be filtered by the Categorical dimensions.
 
