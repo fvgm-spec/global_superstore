@@ -12,6 +12,9 @@ According to its official site, [Rill](https://www.rilldata.com/) is the fastest
 
 https://github-production-user-asset-6210df.s3.amazonaws.com/5587788/240772792-49d17e80-5f27-408c-bbc9-fdbff7b6b627.gif
 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5587788/240772792-49d17e80-5f27-408c-bbc9-fdbff7b6b627.gif" alt="GIF" />
+
+
 Download Rill to start modeling data and create fast, exploratory dashboards.
 
 [Rill dashboard](https://ui.rilldata.com/fvgm-spec/global_superstore/model_dashboard)
